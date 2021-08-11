@@ -1,0 +1,6 @@
+<?php
+
+include("counter.php");
+echo $zahl;0001
+
+?>
